@@ -1,0 +1,9 @@
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.AssemblyInfoInputs.cache
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.AssemblyInfo.cs
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.csproj.CoreCompileInputs.cache
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.MvcApplicationPartsAssemblyInfo.cache
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.RazorAssemblyInfo.cache
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.RazorAssemblyInfo.cs
+D:\BT.net\HqtDay03View\HqtDay03View\obj\Debug\net8.0\HqtDay03View.sourcelink.json

@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HqtDay03View
+build_property.RootNamespace = HqtDay03View
+build_property.ProjectDir = D:\BT.net\HqtDay03View\HqtDay03View\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BT.net\HqtDay03View\HqtDay03View
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/HqtHome/HqtAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHF0SG9tZVxIcXRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/HqtHome/HqtIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHF0SG9tZVxIcXRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/HqtHome/HqtViewIf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHF0SG9tZVxIcXRWaWV3SWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/HqtHome/HqtViewLoop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHF0SG9tZVxIcXRWaWV3TG9vcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/HqtHome/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHF0SG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/Components/HqtDemo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSHF0RGVtb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/_HqtLeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IcXRMZWZ0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/_HqtNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IcXROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BT.net/HqtDay03View/HqtDay03View/Views/Shared/_HqtLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IcXRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ag3re44pcx
