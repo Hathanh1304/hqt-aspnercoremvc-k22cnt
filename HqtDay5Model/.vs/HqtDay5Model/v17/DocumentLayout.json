@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT.net\\HqtDay5Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\controllers\\hqtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\controllers\\hqtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\models\\hqtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\models\\hqtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\hqtdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\hqtdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\views\\hqtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\views\\hqtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|d:\\bt.net\\hqtday5model\\hqtday5model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C3253-963B-482E-A4AE-605A99FBD8B2}|HqtDay5Model\\HqtDay5Model.csproj|solutionrelative:hqtday5model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HqtGetMembers.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtGetMembers.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtGetMembers.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtGetMembers.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtGetMembers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:11:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HqtGetMember.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtGetMember.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtGetMember.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtGetMember.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtGetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:10:37.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HqtDay5Model\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:01:42.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HqtMemberController.cs",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Controllers\\HqtMemberController.cs",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Controllers\\HqtMemberController.cs",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Controllers\\HqtMemberController.cs",
+              "RelativeToolTip": "HqtDay5Model\\Controllers\\HqtMemberController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:02:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HqtCreate.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtCreate.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtCreate.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtCreate.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:07:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HqtMember.cs",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Models\\HqtMember.cs",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Models\\HqtMember.cs",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Models\\HqtMember.cs",
+              "RelativeToolTip": "HqtDay5Model\\Models\\HqtMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:04:16.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HqtEdit.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtEdit.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtEdit.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtEdit.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:09:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HqtDelete.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtDelete.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtDelete.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtDelete.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtDelete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:07:47.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:12:01.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HqtDetails.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtDetails.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\HqtDetails.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\HqtDetails.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\HqtDetails.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vy4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:08:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Views\\HqtMember\\Index.cshtml",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Views\\HqtMember\\Index.cshtml",
+              "RelativeToolTip": "HqtDay5Model\\Views\\HqtMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:06:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "HqtDay5Model\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\BT.net\\HqtDay5Model\\HqtDay5Model\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "HqtDay5Model\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:03:53.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

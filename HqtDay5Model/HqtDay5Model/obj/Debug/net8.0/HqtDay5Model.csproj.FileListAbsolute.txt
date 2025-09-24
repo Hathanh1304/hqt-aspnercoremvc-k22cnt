@@ -1,0 +1,9 @@
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.AssemblyInfoInputs.cache
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.AssemblyInfo.cs
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.csproj.CoreCompileInputs.cache
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.MvcApplicationPartsAssemblyInfo.cache
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.RazorAssemblyInfo.cache
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.RazorAssemblyInfo.cs
+D:\BT.net\HqtDay5Model\HqtDay5Model\obj\Debug\net8.0\HqtDay5Model.sourcelink.json

@@ -1,0 +1,15 @@
+﻿﻿
+    @{
+        ViewData["Title"] = "Thông tin thành viên";
+        // Chuyển đổi kiểu
+        var HqtMember = @ViewBag.HqtMember as HqtDay05Model.Models.HqtMember;
+    }
+
+    <h1>@ViewData["Title"]</h1>
+
+    <p>Member Id: @ViewBag.HqtMember.MemberId </p>
+    <p>FullName: @HqtMember.FullName</p>
+    <p>UserName: @HqtMember.UserName</p>
+    <p>Password: @HqtMember.Password</p>
+    <p>Email: @HqtMember.Email</p>
+    <hr />
